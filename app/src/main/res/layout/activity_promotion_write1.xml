@@ -103,7 +103,7 @@
     <android.widget.Button
         android:id="@+id/button_next"
         android:layout_width="77dp"
-        android:layout_height="45dp"
+        android:layout_height="48dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:layout_marginTop="42dp"
