@@ -155,7 +155,7 @@
         android:layout_marginRight="42dp"
         android:ems="10"
         android:inputType="text"
-        android:text="게시글의 제목을 입력해 주세요."
+        android:text="  게시글의 제목을 입력해 주세요."
         android:textColor="#29000000"
         android:background="@drawable/edittext_rounded_corner_rectangle" />
 
@@ -172,7 +172,7 @@
         android:background="@drawable/edittext_rounded_corner_rectangle"
         android:ems="10"
         android:inputType="text"
-        android:text="모임 이름을 입력해 주세요."
+        android:text="  모임 이름을 입력해 주세요."
         android:textColor="#29000000" />
 
     <EditText
@@ -188,7 +188,7 @@
         android:background="@drawable/edittext_rounded_corner_rectangle"
         android:ems="10"
         android:inputType="text"
-        android:text="면접 유무를 입력해 주세요."
+        android:text="  면접 유무를 입력해 주세요."
         android:textColor="#29000000" />
 
     <EditText
@@ -204,7 +204,7 @@
         android:background="@drawable/edittext_rounded_corner_rectangle"
         android:ems="10"
         android:inputType="text"
-        android:text="회비를 입력해 주세요."
+        android:text="  회비를 입력해 주세요."
         android:textColor="#29000000" />
 
     <EditText
@@ -220,7 +220,7 @@
         android:background="@drawable/edittext_rounded_corner_rectangle"
         android:ems="10"
         android:inputType="date"
-        android:text="모집 기간을 입력해 주세요."
+        android:text="  모집 기간을 입력해 주세요."
         android:textColor="#29000000" />
 
     <TextView
