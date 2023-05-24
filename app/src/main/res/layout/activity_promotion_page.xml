@@ -75,4 +75,5 @@
             android:layout_height="wrap_content"
             android:text="Q&amp;A" />
     </com.google.android.material.tabs.TabLayout>
+
 </RelativeLayout>
